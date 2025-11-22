@@ -28,3 +28,8 @@
     <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a>
     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
     <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a></p>
+<h3 align="left">Stats:</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=isuru-ui&show_icons=true&include_all_commits=true&theme=dracula" height="180" alt="isuru-ui github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isuru-ui&layout=compact&theme=dracula" height="180" alt="isuru-ui top languages" />
+</div>
